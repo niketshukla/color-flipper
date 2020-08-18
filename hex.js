@@ -1,5 +1,4 @@
 let btn = document.getElementById('btn');
-
 btn.addEventListener('click', function(){
     let randomNumber =  hexCode();
     console.log(randomNumber);
